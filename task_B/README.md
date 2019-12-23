@@ -53,7 +53,3 @@ I would like to mention the following references which helped me in completion o
   * [verilog-examples](https://gitlab.com/jjchico/verilog-examples/) - Various *verilog* examples.
   * [python-testBench guide](https://www.youtube.com/watch?v=DtzD2UM-Dzg) - How to configure Makefile and write python testbench.
   * [Icarus Verilog](http://iverilog.icarus.com/).
-
-## Authors
-
-  * **Prankur Verma**
