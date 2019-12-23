@@ -1,10 +1,10 @@
-# Verilog Examples
+# Verification Skill Task
 
-Various, hopefully useful, Verilog examples.
+Please follow the instructions to build and run the python testBench for the given verilog example using CoCoTB.
 
 ## Introduction
 
-This is my submission for Verification Task **B1. CoCoTb based Verification**. Some Verilog examples I use for teaching Verilog, that may be useful for other projects as well. Most (if not all) the examples are tested with .
+This is my submission for Verification Task **B1. CoCoTb based Verification**.
 
 ## References
 
