@@ -33,8 +33,8 @@ module test();
         d = 0;
 
         // Waveform generation statements
-        //$dumpfile("test.vcd");
-        //$dumpvars(0,test);
+        $dumpfile("test.vcd");
+        $dumpvars(0,test);
 
         // Results printing
         $display("d\tseg");

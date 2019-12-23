@@ -27,10 +27,24 @@ This is my submission for Verification Task **B1. CoCoTb based Verification**.
    make env/bin/cocotb-config
    ```
 
-3. Running Python TestBench:
+3. Add the BCD_7 folder to the following location:
+   build/cocotb/examples
 
-    The test output is shown in the picture below:
-    ![BCD_7 waveform](img/bcd_7test.png)
+4. Running Python TestBench:
+   ```
+   make cocotb/bcd_7/run
+
+   ```
+   The testBench will be executed with CoCoTB and verilator with zero errors. To see the waveform run the following commands:
+   ```
+   iverilog bcd_7.v bcd_7_tb.v
+   vvp a.out
+   gtkwave test.vcd
+
+   ```
+   
+   The test output is shown in the picture below:
+   ![BCD_7 waveform](img/gtk_waveform.png)
 
 
 ## References
