@@ -14,7 +14,6 @@ This is my submission for Verification Task **B1. CoCoTb based Verification**.
    sudo apt-get install virtualenv build-essential
    sudo apt-get install python3-dev
    sudo apt install gtkwave
-
    ```
 
 2. Installing CoCoTB-Verilator Build:
@@ -33,14 +32,12 @@ This is my submission for Verification Task **B1. CoCoTb based Verification**.
 4. Running Python TestBench:
    ```
    make cocotb/bcd_7/run
-
    ```
    The testBench will be executed with CoCoTB and verilator with zero errors. To see the waveform run the following commands:
    ```
    iverilog bcd_7.v bcd_7_tb.v
    vvp a.out
    gtkwave test.vcd
-
    ```
    
    The test output is shown in the picture below:
