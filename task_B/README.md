@@ -1,6 +1,6 @@
 # Verification Skill Task
 
-Please follow the instructions to build and run the python testBench for the given verilog example using CoCoTB.
+Please follow the instructions to reproduce my setup to build and run the python testBench for the given verilog example using CoCoTB.
 
 ## Introduction
 
