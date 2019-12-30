@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "sha256.h": "c",
-        "platform_util.h": "c",
-        "config.h": "c"
-    }
-}
