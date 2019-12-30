@@ -8,6 +8,11 @@ This is my submission for Software Task **A2. Python interface and test APIs usi
 ## Instructions
 
 1. Install dependencies:
+   One step install all the dependencies:
+   ```
+   pip install requirements.txt
+   ```
+   Or follow the detailed steps:
     * [SWIG](http://www.swig.org/download.html)
 
 ## References

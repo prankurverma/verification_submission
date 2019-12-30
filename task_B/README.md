@@ -9,15 +9,17 @@ This is my submission for Verification Task **B1. CoCoTb based Verification**.
 ## Instructions
 
 1. Install dependencies:
-
+   One step install all the dependencies:
+   ```
+   pip install requirements.txt
+   ```
+   Or follow the detailed steps:
    ```
    sudo apt-get install virtualenv build-essential
    sudo apt-get install python3-dev
    sudo apt install gtkwave
+   Installing CoCoTB-Verilator Build:
    ```
-
-2. Installing CoCoTB-Verilator Build:
-
    ```
    git clone https://github.com/antmicro/cocotb-verilator-build.git build
    cd build
@@ -26,10 +28,10 @@ This is my submission for Verification Task **B1. CoCoTb based Verification**.
    make env/bin/cocotb-config
    ```
 
-3. Add the BCD_7 folder to the following location:
+2. Add the BCD_7 folder to the following location:
    build/cocotb/examples
 
-4. Running Python TestBench:
+3. Running Python TestBench:
    ```
    make cocotb/bcd_7/run
    ```
