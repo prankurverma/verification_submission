@@ -16,8 +16,5 @@ I would like to mention the following references which helped me in completion o
 
   * **[SWIG-Documentation](http://www.swig.org/Doc4.0/SWIGDocumentation.html)**.
   * [Python-SWIG tutorial](http://www.swig.org/papers/PyTutorial98/PyTutorial98.pdf).
-<<<<<<< HEAD
   * [Hello world for SWIG](https://github.com/UiO-IN3110/code-snippets/tree/master/mixed/swig).
-  * [Sample project](http://vmlaker.github.io/pythonwildmagic/swig_interface.html)
-=======
->>>>>>> a1a4c28f197810a98bd42515089b2515f83510e2
+  * [Sample project](http://vmlaker.github.io/pythonwildmagic/swig_interface.html).
