@@ -1,4 +1,4 @@
-numpy==1.11.0
+numpy==1.22.0
 apply==1.5
 Cython==0.29.14
 mbed_host_tests==1.5.10
